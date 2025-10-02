@@ -1,0 +1,2 @@
+# NYCU-Dynamic-web-programming
+本課程教授server side與client side網頁程式技術與程式語言。介紹網頁開發工具和伺服器，並著重server side程式尤其是PHP程式開發結合資料庫的使用，使學生能開發出心目中的多層式架構網站。
